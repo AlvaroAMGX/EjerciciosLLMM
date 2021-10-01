@@ -2,17 +2,17 @@
 <inventariobiblioteca>
    <libro>
       <autor>J.R.Jiménez</autor>
-      <título>Platero y yo</título>
+      <titulo>Platero y yo</titulo>
       <genero>Poesía lirica</genero>
    </libro>
    <libro>
       <autor>J.K.Rowlling</autor>
-      <título>Harry Potter y la Piedra filosofal<título>
+      <titulo>Harry Potter y la Piedra filosofal<titulo>
       <genero>Fantasía</genero>
    </libro>
    <libro>
       <autor>H.P.Lovecraft</autor>
-      <título>La llamada de Cthulhu<título>
+      <titulo>La llamada de Cthulhu<titulo>
       <genero>Ciencia ficcion</genero>
    </libro>
 </inventariobiblioteca>
