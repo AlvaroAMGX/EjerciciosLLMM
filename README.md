@@ -7,5 +7,5 @@ Aquí están mis ejercicios de lenguaje de marcas.
 
 Ejercicio|Descripcion
 ---------|-----------
-[HTML](/Trimestre 1/Ejercicio 1/html 1.html)
+[HTML]()
 
