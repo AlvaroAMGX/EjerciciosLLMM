@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventariobiblioteca>
+   <libro>
+      <autor>J.R.Jiménez</autor>
+      <título>Platero y yo</título>
+      <genero>Poesía lirica</genero>
+   </libro>
+   <libro>
+      <autor>J.K.Rowlling</autor>
+      <título>Harry Potter y la Piedra filosofal<título>
+      <genero>Fantasía</genero>
+   </libro>
+   <libro>
+      <autor>H.P.Lovecraft</autor>
+      <título>La llamada de Cthulhu<título>
+      <genero>Ciencia ficcion</genero>
+   </libro>
+</inventariobiblioteca>
