@@ -1,9 +1,9 @@
 # Lenguaje De Marcas
-Aquí están mis ejercicios de lenguaje de marcas.
+Aquí están mis ejercicios de lenguaje de marcas. 
 
-## Trimestre 1 ##
+## Tema 1
 
-### Ejercicio 1 ###
+#### Ejercicio 1
 
 **Ejercicio**|**Descripcion**
 ---------|-----------
