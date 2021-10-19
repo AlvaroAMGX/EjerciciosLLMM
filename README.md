@@ -16,7 +16,7 @@ Aquí están mis ejercicios de lenguaje de marcas.
 
 ## Tema 2
 
-### Ejercicio 1
+### Ejercicio Html
 
 **Ejercicio**|**Descripcion**
 ---------|-----------
