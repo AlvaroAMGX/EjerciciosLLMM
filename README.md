@@ -24,6 +24,5 @@ Aquí están mis ejercicios de lenguaje de marcas.
 [HTML2](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-2.html)|Crea una página html que incluya seis niveles de cabecera seguidas de un pequeño párrafo de texto.
 [HTML3](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-3.html)|Hacer un currículum con los datos indicados
 [HTML4](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-4.html)|Crear una página html que muestre el aspecto que nos mando el profesor
-[HTML5](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-5.html)|Crea una página que contenga varios párrafos, con distinta alineación y con
-encabezados.
+[HTML5](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-5.html)|Crea una página que contenga varios párrafos, con distinta alineación y con encabezados.
 [HTML6](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-6.html)|Modifica la página anterior para incluir distintos formatos de texto.
