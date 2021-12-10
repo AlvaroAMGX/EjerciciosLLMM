@@ -19,5 +19,6 @@ Aquí están mis ejercicios de lenguaje de marcas.
 ### Ejercicio Html
 
 **Ejercicio**|**Descripcion**
----------|-----------
-[HTML 1](/Tema-2/Ejercicio-Html/Html-2-1.html)|Crea una página con un texto que el profesor te de y ponle las etiquetas que te pida
+---------|------------
+
+            
