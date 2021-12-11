@@ -30,5 +30,18 @@ Aquí están mis ejercicios de lenguaje de marcas.
 [HTML 8](/Trimestre-1/Tema_2/Ejercicio_Html/Misitio/)|Hacer el ejercicio número 6 de “uniwebsidad” del capítulo 4 (Llamado misitio)
 [HTML 9](/Trimestre-1/Tema_2/Ejercicio_Html/Ejercicio_9/)|Hacer una pagina llamada runnershome siguiendo las indicaciones del profesor
 [HTML10](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-10.html)|Hacer una página HTML con dos niveles de listas anidadas
+[HTML11](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-11.html)|Al ejercicio anterior añadir varias listas anidadas más
+[HTML12](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-12.html)|Crear varios párrafos en html y usar un color de fondo diferente para cada párrafo y un color de texto igualmente distinto, Además emplear tipo de letra verdana para las cabeceras y courier para los párrafos. Usar una alineación diferente para cada párrafo.
+[HTML13](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-13.html)|Crear cuatro párrafos y rellenar el contenido con el texto "Lorem ipsum". Añadir una cabecera a cada párrafo e incluye un identificador para cada etiqueta.<br>-Con CSS:<br>Utilizar un tipo de borde diferente para cada párrafo.<br>Usar un color distinto para el color del borde de cada cabecera.
+[HTML14](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-14.html)|Crea cuatro párrafos y rellena el contenido con el texto "Lorem ipsum". Añade una cabecera a cada párrafo e incluye un identificador para cada etiqueta.
+[HTML15](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-15.html)|Hacer una tabla de una factura
+[HTML16](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-16.html)|Hacer nuestro horario en forma de tabla
+[HTML17](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-17.html)|Crear otra tabla con imagenes de electrodomésticos dentro
+[HTML18](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-18.html)|Hacer una tabla comparando dos mp3
+[HTML19](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-19.html)|Mostrar una imagen con posicionamiento flotante a la izquierda junto a un párrafo con texto.<br>A continuación agrega una imagen con posicionamiento flotante a derecha junto a un párrafo con texto.
+[HTML20](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-20.html)|Usar las imágenes de w3school incluidas al principio del artículo del enlace siguiente y agrégales texto, tal como aparece en el ejemplo final del artículo sobre posicionamiento flotante.
+[HTML21](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-21.html)|Crear un grupo de imágenes en miniatura. Incluye un enlace a la imagen original en cada una de ellas.
+
+
 
 
