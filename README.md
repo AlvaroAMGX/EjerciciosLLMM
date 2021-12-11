@@ -7,7 +7,7 @@ Aquí están mis ejercicios de lenguaje de marcas.
 
 ### Ejercicio 1
 
-**Ejercicio**|**Descripcion**
+**Ejercicio**|**Descripción**
 ---------|-----------
 [HTML 1](/Trimestre-1/Tema-1/Ejercicio-1/html-1.html)|Ejercicio Basico para aprender HTML con ua cabezera h1 y un párrafo.
 [XML 1](/Trimestre-1/Tema-1/Ejercicio-1/XML-1.xml)|Ejercicio donde hacemos una biblioteca y ordenamos unos libros poniendo información como su autor,genero y nombre.
