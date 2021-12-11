@@ -45,7 +45,7 @@ Aquí están mis ejercicios de lenguaje de marcas.
 [HTML23](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-23.html)|Hacer un iFrame con enlaces a uniwebsidad.
 [HTML24](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-24.html)|Hacer un formulario.
 [HTML25](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-25.html)|Añadir al formulario una caja para meter unos cuantos datos más.
-[HTML26](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-25.html)|Hacer un formulario que registre los datos con una página PHP
+[HTML26](/Trimestre-1/Tema_2/Ejercicio_Html/Ejercicio_26/)|Hacer un formulario que registre los datos con una página PHP
 
 
 
