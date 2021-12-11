@@ -18,7 +18,7 @@ Aquí están mis ejercicios de lenguaje de marcas.
 
 ### Ejercicio Html
 
-**Ejercicio**|**Descripcion**
+**Ejercicio**|**Descripción**
 ---------|------------
 [HTML1](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-1.html)|Empezamos a aprender como usar las etiquetas de encabezado y las de parrafo metiendo algunas etiquetas para marcar,poner en negrita o hacer énfasis.
 [HTML 2](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-2.html)|Crea una página html que incluya seis niveles de cabecera seguidas de un pequeño párrafo de texto.
