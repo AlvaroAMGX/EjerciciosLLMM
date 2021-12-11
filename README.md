@@ -20,7 +20,7 @@ Aquí están mis ejercicios de lenguaje de marcas.
 
 **Ejercicio**|**Descripción**
 ---------|------------
-[HTML1](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-1.html)|Empezamos a aprender como usar las etiquetas de encabezado y las de parrafo metiendo algunas etiquetas para marcar,poner en negrita o hacer énfasis.
+[HTML 1](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-1.html)|Empezamos a aprender como usar las etiquetas de encabezado y las de parrafo metiendo algunas etiquetas para marcar,poner en negrita o hacer énfasis.
 [HTML 2](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-2.html)|Crea una página html que incluya seis niveles de cabecera seguidas de un pequeño párrafo de texto.
 [HTML 3](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-3.html)|Hacer un currículum con los datos indicados
 [HTML 4](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-4.html)|Crear una página html que muestre el aspecto que nos mando el profesor
@@ -29,6 +29,6 @@ Aquí están mis ejercicios de lenguaje de marcas.
 [HTML 7](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-7.html)|Cambia los atributos de la página para cambiar el fondo y color. Prueba con las distintas opciones. 
 [HTML 8](/Trimestre-1/Tema_2/Ejercicio_Html/Misitio/)|Hacer el ejercicio número 6 de “uniwebsidad” del capítulo 4 (Llamado misitio)
 [HTML 9](/Trimestre-1/Tema_2/Ejercicio_Html/Ejercicio_9/)|Hacer una pagina llamada runnershome siguiendo las indicaciones del profesor
-[HTML 10](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-10.html)|Hacer una página HTML con dos niveles de listas anidadas
+[HTML10](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-10.html)|Hacer una página HTML con dos niveles de listas anidadas
 
 
