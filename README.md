@@ -27,5 +27,5 @@ Aquí están mis ejercicios de lenguaje de marcas.
 [HTML 5](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-5.html)|Crea una página que contenga varios párrafos, con distinta alineación y con encabezados.
 [HTML 6](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-6.html)|Modifica la página anterior para incluir distintos formatos de texto.
 [HTML 7](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-7.html)|Cambia los atributos de la página para cambiar el fondo y color. Prueba con las distintas opciones. 
-[HTML 8](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-8.html)|Hacer el ejercicio número 6 de “uniwebsidad” del capítulo 4
+[HTML 8](/Trimestre-1/Tema_2/Ejercicio_Html/Misitio/)|Hacer el ejercicio número 6 de “uniwebsidad” del capítulo 4 (Llamado misitio)
 [HTML 9]()|
