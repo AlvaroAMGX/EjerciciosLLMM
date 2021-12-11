@@ -43,8 +43,9 @@ Aquí están mis ejercicios de lenguaje de marcas.
 [HTML21](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-21.html)|Crear un grupo de imágenes en miniatura. Incluye un enlace a la imagen original en cada una de ellas.
 [HTML22](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-22/)|Poner a una páginas HTMl un Favicon.
 [HTML23](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-23.html)|Hacer un iFrame con enlaces a uniwebsidad.
-[HTML24](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-24.html)|Hacer un formulario
-[HTML25](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-25.html)|Añadir al formulario una caja para meter unos cuantos datos más
+[HTML24](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-24.html)|Hacer un formulario.
+[HTML25](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-25.html)|Añadir al formulario una caja para meter unos cuantos datos más.
+[HTML26](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-25.html)|Hacer un formulario que registre los datos con una página PHP
 
 
 
