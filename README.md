@@ -47,6 +47,10 @@ Aquí están mis ejercicios de lenguaje de marcas.
 [HTML25](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-25.html)|Añadir al formulario una caja para meter unos cuantos datos más.
 [HTML26](/Trimestre-1/Tema_2/Ejercicio_Html/Ejercicio_26/)|Hacer un formulario que registre los datos con una página PHP
 
+## Proyecto
+
+[Proyecto](https://web-4-you.w3spaces.com/)|Crear una página web tipo W3schools hablando sobre cinco temas de cada lenguaje mandado(HTML,CSS,SVG).
+-------------------------------------------|------------------------------------------------------------------------------------------------------
 
 
 
