@@ -58,7 +58,7 @@ Aquí están mis ejercicios de lenguaje de marcas.
 
 **Ejercicio**|**Descripción**
 ---------|------------
-[CSS 1](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-1.html)|Empezamos a aprender como usar las etiquetas de encabezado y las de parrafo metiendo algunas etiquetas para marcar,poner en negrita o hacer énfasis.
+[CSS 1](/Trimestre-2/Ejercicio_Css/Css-2-1)|Empezamos a aprender como usar las etiquetas de encabezado y las de parrafo metiendo algunas etiquetas para marcar,poner en negrita o hacer énfasis.
 [CSS 2](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-2.html)|Crea una página html que incluya seis niveles de cabecera seguidas de un pequeño párrafo de texto.
 [CSS 3](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-3.html)|Hacer un currículum con los datos indicados.
 [CSS 4](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-4.html)|Crear una página html que muestre las etuiquetas como para hcaer un ejemplo a una persona novata.
