@@ -63,12 +63,12 @@ Aquí están mis ejercicios de lenguaje de marcas.
 [CSS 3](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-3.html)|Hacer un currículum con los datos indicados.
 [CSS 4](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-4.html)|Crear una página html que muestre las etuiquetas como para hcaer un ejemplo a una persona novata.
 [CSS 5](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-5.html)|Crea una página que contenga varios párrafos, con distinta alineación y con encabezados.
-[HTML ](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-6.html)|Modifica la página anterior para incluir distintos formatos de texto.
-[HTML 7](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-7.html)|Cambia los atributos de la página para cambiar el fondo y color. Prueba con las distintas opciones. 
-[HTML 8](/Trimestre-1/Tema_2/Ejercicio_Html/Misitio/)|Hacer el ejercicio número 6 de “uniwebsidad” del capítulo 4 (Llamado misitio).
-[HTML 9](/Trimestre-1/Tema_2/Ejercicio_Html/Ejercicio_9/)|Hacer una pagina llamada runnershome siguiendo las indicaciones del profesor.
-[HTML10](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-10.html)|Hacer una página HTML con dos niveles de listas anidadas.
-[HTML11](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-11.html)|Al ejercicio anterior añadir varias listas anidadas más.
+[CSS 6](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-6.html)|Modifica la página anterior para incluir distintos formatos de texto.
+[CSS 7](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-7.html)|Cambia los atributos de la página para cambiar el fondo y color. Prueba con las distintas opciones. 
+[CSS 8](/Trimestre-1/Tema_2/Ejercicio_Html/Misitio/)|Hacer el ejercicio número 6 de “uniwebsidad” del capítulo 4 (Llamado misitio).
+[CSS 9](/Trimestre-1/Tema_2/Ejercicio_Html/Ejercicio_9/)|Hacer una pagina llamada runnershome siguiendo las indicaciones del profesor.
+[CSS 10](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-10.html)|Hacer una página HTML con dos niveles de listas anidadas.
+[CSS11](/Trimestre-1/Tema_2/Ejercicio_Html/Html-2-11.html)|Al ejercicio anterior añadir varias listas anidadas más.
 
 
 
