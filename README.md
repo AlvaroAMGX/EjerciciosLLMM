@@ -56,6 +56,8 @@ Aquí están mis ejercicios de lenguaje de marcas.
 
 ## Tema 3
 
+###  CSS
+
 **Ejercicio**|**Descripción**
 ---------|------------
 [CSS 1](/Trimestre_2/Ejercicio_Css/Css-2-1)|Hacer un Curriculum y modificarlo con CSS para dejarlo como el ejemplo.
@@ -67,6 +69,15 @@ Aquí están mis ejercicios de lenguaje de marcas.
 [CSS 9](/Trimestre_2/Ejercicio_Css/Css-2-9)|Hacer los ejemplos de flexbox de mslibre.org.
 [CSS 10](/Trimestre_2/Ejercicio_Css/Css-2-10)|Hacer un menu con Media para cuando la pantalla sea pequeña se ponga horizontal y una galería de imagenés.
 [CSS 11](/Trimestre_2/Ejercicio_Css/Css-2-11)|Hacer un diseño de responsive.
+
+###  JS
+
+**Ejercicio**|**Descripción**
+---------|------------
+[JS 1](/Trimestre_2/Ejercicio_Javascript/js-2-1)|Añadir un botón y poner el sript en otro archivo.
+[JS 2](/Trimestre_2/Ejercicio_Javascript/js-2-2)|Mostrar un mensaje al darle al botón.
+[JS 3](/Trimestre_2/Ejercicio_Javascript/js-2-3)|Modificar el ejemplo para que al poner el número se cambie la fot por otro coche.
+[JS 4](/Trimestre_2/Ejercicio_Javascript/js-2-4)|Mostrar la variable que escojas en pantalla.
 
 ## Proyecto bootstrap
 
