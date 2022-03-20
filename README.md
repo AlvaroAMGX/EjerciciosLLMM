@@ -74,10 +74,10 @@ Aquí están mis ejercicios de lenguaje de marcas.
 
 **Ejercicio**|**Descripción**
 ---------|------------
-[JS 1](/Trimestre_2/Ejercicio_Javascript/js-2-1)|Añadir un botón y poner el sript en otro archivo.
-[JS 2](/Trimestre_2/Ejercicio_Javascript/js-2-2)|Mostrar un mensaje al darle al botón.
-[JS 3](/Trimestre_2/Ejercicio_Javascript/js-2-3)|Modificar el ejemplo para que al poner el número se cambie la fot por otro coche.
-[JS 4](/Trimestre_2/Ejercicio_Javascript/js-2-4)|Mostrar la variable que escojas en pantalla.
+[JS 1](/Trimestre_2/Ejercicio_Javascript/Javascript-2-1)|Añadir un botón y poner el sript en otro archivo.
+[JS 2](/Trimestre_2/Ejercicio_Javascript/Javascript-2-2)|Mostrar un mensaje al darle al botón.
+[JS 3](/Trimestre_2/Ejercicio_Javascript/Javascript-2-3)|Modificar el ejemplo para que al poner el número se cambie la fot por otro coche.
+[JS 4](/Trimestre_2/Ejercicio_Javascript/Javascript-2-4)|Mostrar la variable que escojas en pantalla.
 
 ## Proyecto bootstrap
 
