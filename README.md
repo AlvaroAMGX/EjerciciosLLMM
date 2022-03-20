@@ -58,21 +58,21 @@ Aquí están mis ejercicios de lenguaje de marcas.
 
 **Ejercicio**|**Descripción**
 ---------|------------
-[CSS 1](/Trimestre_2/Ejercicio_Css/Css-2-1)|Hacer un Curriculum y modificarlo con CSS para dejarlo como el ejemplo
-[CSS 2](/Trimestre_2/Ejercicio_Css/Css-2-2)|
-[CSS 3](/Trimestre_2/Ejercicio_Css/Css-2-3)|Hacer un currículum con los datos indicados.
-[CSS 4](/Trimestre_2/Ejercicio_Css/Css-2-4.html)|Crear una página html que muestre las etuiquetas como para hcaer un ejemplo a una persona novata.
-[CSS 5](/Trimestre_2/Ejercicio_Css/Css-2-5)|Crea una página que contenga varios párrafos, con distinta alineación y con encabezados.
-[CSS 8](/Trimestre_2/Ejercicio_Css/css-2-8)|Hacer el ejercicio número 6 de “uniwebsidad” del capítulo 4 (Llamado misitio).
-[CSS 9](/Trimestre_2/Ejercicio_Css/Css-2-9)|Hacer una pagina llamada runnershome siguiendo las indicaciones del profesor.
-[CSS 10](/Trimestre_2/Ejercicio_Css/Css-2-10)|Hacer una página HTML con dos niveles de listas anidadas.
-[CSS 11](/Trimestre_2/Ejercicio_Css/Css-2-11)|Al ejercicio anterior añadir varias listas anidadas más.
+[CSS 1](/Trimestre_2/Ejercicio_Css/Css-2-1)|Hacer un Curriculum y modificarlo con CSS para dejarlo como el ejemplo.
+[CSS 2](/Trimestre_2/Ejercicio_Css/Css-2-2)|Modificar con CSS un html para ver como de grande puede ser la diferencia.
+[CSS 3](/Trimestre_2/Ejercicio_Css/Css-2-3)|Hacer una página web de un currículum con los datos indicados.
+[CSS 4](/Trimestre_2/Ejercicio_Css/Css-2-4.html)|Modificar con CSS una tabla hasta que sea igual que el ejemplo.
+[CSS 5](/Trimestre_2/Ejercicio_Css/Css-2-5)|Modificar con CSS una tabla hasta que sea igual que el ejemplo.
+[CSS 8](/Trimestre_2/Ejercicio_Css/css-2-8)|Jugar con las posiciones para con div hascer los ejemplos.
+[CSS 9](/Trimestre_2/Ejercicio_Css/Css-2-9)|Hacer los ejemplos de flexbox de mslibre.org.
+[CSS 10](/Trimestre_2/Ejercicio_Css/Css-2-10)|Hacer un meno con Media para cuando la pantalla sea pequeña se ponga horizontal y una galería de imagenés.
+[CSS 11](/Trimestre_2/Ejercicio_Css/Css-2-11)|Hacer un diseño de responsive.
 
 ## Proyecto bootstrap
 
-[Proyecto responsive](https://bootstrapexample.w3spaces.com/)|Proyecto del segundo trimestre donde hacemos una página web con Bootstrap para que sea con un diseño "responsive"
+[Proyecto responsive](https://bootstrapexample.w3spaces.com/)|Proyecto del segundo trimestre donde hacemos una página web con Bootstrap para que sea con un diseño "responsive".
 ---------|------------
-[Validación](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fbootstrapexample.w3spaces.com%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=es#css)|Aqui dejo el documento de validación aunque al parecer me ha dado varios problemas porque no reconoce algunas cosas del css y las coje como errores cuando estas vienen casi iguales de w3schools por lo demás esta validado y no me ha dado más problemas
+[Validación](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fbootstrapexample.w3spaces.com%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=es#css)|Aqui dejo el documento de validación aunque al parecer me ha dado varios problemas porque no reconoce algunas cosas del css y las coje como errores cuando estas vienen casi iguales de w3schools por lo demás esta validado y no me ha dado más problemas.
 
 
 
