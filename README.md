@@ -63,7 +63,7 @@ Aquí están mis ejercicios de lenguaje de marcas.
 [CSS 3](/Trimestre_2/Ejercicio_Css/Css-2-3)|Hacer un currículum con los datos indicados.
 [CSS 4](/Trimestre_2/Ejercicio_Css/Css-2-4.html)|Crear una página html que muestre las etuiquetas como para hcaer un ejemplo a una persona novata.
 [CSS 5](/Trimestre_2/Ejercicio_Css/Css-2-5)|Crea una página que contenga varios párrafos, con distinta alineación y con encabezados.
-[CSS 8](/Trimestre_2/Ejercicio_Css/Css-2-8)|Hacer el ejercicio número 6 de “uniwebsidad” del capítulo 4 (Llamado misitio).
+[CSS 8](/Trimestre_2/Ejercicio_Css/css-2-8)|Hacer el ejercicio número 6 de “uniwebsidad” del capítulo 4 (Llamado misitio).
 [CSS 9](/Trimestre_2/Ejercicio_Css/Css-2-9)|Hacer una pagina llamada runnershome siguiendo las indicaciones del profesor.
 [CSS 10](/Trimestre_2/Ejercicio_Css/Css-2-10)|Hacer una página HTML con dos niveles de listas anidadas.
 [CSS 11](/Trimestre_2/Ejercicio_Css/Css-2-11)|Al ejercicio anterior añadir varias listas anidadas más.
