@@ -61,10 +61,8 @@ Aquí están mis ejercicios de lenguaje de marcas.
 [CSS 1](/Trimestre_2/Ejercicio_Css/Css-2-1)|Empezamos a aprender como usar las etiquetas de encabezado y las de parrafo metiendo algunas etiquetas para marcar,poner en negrita o hacer énfasis.
 [CSS 2](/Trimestre_2/Ejercicio_Css/Css-2-2)|Crea una página html que incluya seis niveles de cabecera seguidas de un pequeño párrafo de texto.
 [CSS 3](/Trimestre_2/Ejercicio_Css/Css-2-3)|Hacer un currículum con los datos indicados.
-[CSS 4](/Trimestre_2/Ejercicio_Css/Css-2-4)|Crear una página html que muestre las etuiquetas como para hcaer un ejemplo a una persona novata.
+[CSS 4](/Trimestre_2/Ejercicio_Css/Css-2-4.html)|Crear una página html que muestre las etuiquetas como para hcaer un ejemplo a una persona novata.
 [CSS 5](/Trimestre_2/Ejercicio_Css/Css-2-5)|Crea una página que contenga varios párrafos, con distinta alineación y con encabezados.
-[CSS 6](/Trimestre_2/Ejercicio_Css/Css-2-6)|Modifica la página anterior para incluir distintos formatos de texto.
-[CSS 7](/Trimestre_2/Ejercicio_Css/Css-2-7)|Cambia los atributos de la página para cambiar el fondo y color. Prueba con las distintas opciones. 
 [CSS 8](/Trimestre_2/Ejercicio_Css/Css-2-8)|Hacer el ejercicio número 6 de “uniwebsidad” del capítulo 4 (Llamado misitio).
 [CSS 9](/Trimestre_2/Ejercicio_Css/Css-2-9)|Hacer una pagina llamada runnershome siguiendo las indicaciones del profesor.
 [CSS 10](/Trimestre_2/Ejercicio_Css/Css-2-10)|Hacer una página HTML con dos niveles de listas anidadas.
