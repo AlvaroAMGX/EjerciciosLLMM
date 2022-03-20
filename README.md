@@ -65,7 +65,7 @@ Aquí están mis ejercicios de lenguaje de marcas.
 [CSS 5](/Trimestre_2/Ejercicio_Css/Css-2-5)|Modificar con CSS una tabla hasta que sea igual que el ejemplo.
 [CSS 8](/Trimestre_2/Ejercicio_Css/css-2-8)|Jugar con las posiciones para con div hascer los ejemplos.
 [CSS 9](/Trimestre_2/Ejercicio_Css/Css-2-9)|Hacer los ejemplos de flexbox de mslibre.org.
-[CSS 10](/Trimestre_2/Ejercicio_Css/Css-2-10)|Hacer un meno con Media para cuando la pantalla sea pequeña se ponga horizontal y una galería de imagenés.
+[CSS 10](/Trimestre_2/Ejercicio_Css/Css-2-10)|Hacer un menu con Media para cuando la pantalla sea pequeña se ponga horizontal y una galería de imagenés.
 [CSS 11](/Trimestre_2/Ejercicio_Css/Css-2-11)|Hacer un diseño de responsive.
 
 ## Proyecto bootstrap
