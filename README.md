@@ -86,6 +86,10 @@ Aquí están mis ejercicios de lenguaje de marcas.
 ---------|------------
 [Validación](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fbootstrapexample.w3spaces.com%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=es#css)|Aqui dejo el documento de validación aunque al parecer me ha dado varios problemas porque no reconoce algunas cosas del css y las coje como errores cuando estas vienen casi iguales de w3schools por lo demás esta validado y no me ha dado más problemas.
 
+## Proyecto kahoot
+
+[Proyecto kahoot](https://quizi.w3spaces.com/index.html)|Proyecto del tercer trimestre donde hacemos una página web con xml ajax y javascript.
+---------|------------
 
 
 
