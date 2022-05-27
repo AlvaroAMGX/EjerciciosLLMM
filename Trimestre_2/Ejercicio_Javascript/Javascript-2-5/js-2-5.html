@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+
+<body>
+<p id="parrafo">Haz un documento html donde con botones cambies un parrafo de fuente,cambie el src de la imagen y ponga diferente frases en un div </p><br>
+<select id="font" name="font" onchange="cambiafont()">
+  <option value="monospace">Monospace</option>
+  <option value="Verdana, Geneva, Tahoma, sans-serif">Verdana</option>
+  <option value="Arial, Helvetica, sans-serif">Arial</option>
+</select> 
+<br><br>
+<img id="miImagen" src="chrome.jpg" style="height:300px"><br><br>
+<select id="img" name="img" onchange="cambiaimg()">
+  <option value="chrome.jpg">Chrome</option>
+  <option value="Mario.jpg">Mario</option>
+  <option value="Pacman.png">Pacman</option>
+</select><br><br>
+<div id="div">Selecciona una opción y escribe dentro</div><br><br>
+<select id="opc" name="opc" onchange="escribir()">
+    <option value="Amborguesa">Comida 1</option>
+    <option value="Almondigas">Comida 2</option>
+    <option value="Frances muerto abono pa mi huerto">Racista</option>
+  </select>
+</body>
+</html>
+<script src="./js-2-5.js"></script>
