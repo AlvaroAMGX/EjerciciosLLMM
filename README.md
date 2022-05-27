@@ -78,7 +78,20 @@ Aquí están mis ejercicios de lenguaje de marcas.
 [JS 2](/Trimestre_2/Ejercicio_Javascript/Javascript-2-2)|Mostrar un mensaje al darle al botón.
 [JS 3](/Trimestre_2/Ejercicio_Javascript/Javascript-2-3)|Modificar el ejemplo para que al poner el número se cambie la fot por otro coche.
 [JS 4](/Trimestre_2/Ejercicio_Javascript/Javascript-2-4)|Mostrar la variable que escojas en pantalla.
+[JS 5](/Trimestre_2/Ejercicio_Javascript/Javascript-2-5)|Mostrar la variable que escojas en pantalla.
+[JS 6](/Trimestre_2/Ejercicio_Javascript/Javascript-2-6)|Mostrar la variable que escojas en pantalla.
+[JS 7](/Trimestre_2/Ejercicio_Javascript/Javascript-2-7)|Mostrar la variable que escojas en pantalla.
+[JS 8](/Trimestre_2/Ejercicio_Javascript/Javascript-2-8)|Mostrar la variable que escojas en pantalla.
 [Juego](/Trimestre_2/Ejercicio_Javascript/Juego)|Juego que hice para practicar
+
+###  DOM
+
+**Ejercicio**|**Descripción**
+---------|------------
+[DOM 1](/Trimestre_2/Ejercicio_Javascript/Javascript-DOM-1)|Añadir un botón y poner el sript en otro archivo.
+[DOM 2](/Trimestre_2/Ejercicio_Javascript/Javascript-DOM-2)|Mostrar un mensaje al darle al botón.
+[DOM 3](/Trimestre_2/Ejercicio_Javascript/Javascript-DOM-3)|Modificar el ejemplo para que al poner el número se cambie la fot por otro coche.
+[DOM 4](/Trimestre_2/Ejercicio_Javascript/Javascript-DOM-4)|Mostrar la variable que escojas en pantalla.
 
 ## Proyecto bootstrap
 
