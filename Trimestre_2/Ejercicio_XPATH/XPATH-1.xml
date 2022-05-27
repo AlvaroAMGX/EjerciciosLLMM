@@ -1,0 +1,32 @@
+<!--Select all elements “nombre”.-->
+//nombre
+<!--Select degree names offered by the University.-->
+/universidad/carreras/carrera/nombre
+<!--Select all the student’s names.-->
+/universidad/alumnos/alumno/nombre
+<!--Select all the subject’s names.-->
+/universidad/asignaturas/asignatura/nombre
+<!--Select all id attributes.-->
+//@id
+<!--Select the id attribute of the degrees.-->
+/universidad/carreras/carrera/@id
+<!--Select the first student.-->
+/universidad/alumnos/alumno[1]
+<!--Select the last student.-->
+/universidad/alumnos/alumno[last()]
+<!--The two first students.-->
+/universidad/alumnos/alumno[1]
+/universidad/alumnos/alumno[2]
+<!--Select the subject with id=a01.-->
+/universidad/asignaturas/asignatura[@id="a01"]
+<!--Select the degrees’ subjects whose id is c01.-->
+/universidad/carreras/carrera[@id="c01"]
+<!--Degrees with over 200 credits.-->
+/universidad/carreras/carrera[creditos>200]
+<!--Subjects with over 4 theoric credits.-->
+/universidad/asignaturas/asignatura[creditos_teoricos>4]
+<!--Name and centre of the degrees.-->
+/universidad/asignaturas/asignatura/nombre
+/universidad/asignaturas/asignatura/centro
+<!--Select all nodes which are child of “carreras”-->
+/universidad//carreras
