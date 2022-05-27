@@ -117,6 +117,12 @@ Aquí están mis ejercicios de lenguaje de marcas.
 [AJAX 2](/Trimestre_2/Ejercicio_AJAX/AJAX-2)|Con la consola conseguiremos los que nos piden de una tienda de CDs.
 [AJAX 3](/Trimestre_2/Ejercicio_AJAX/AJAX-3)|Con la consola conseguiremos los que nos piden de una libreria con bucles.
 
+###  XPATH
+
+**Ejercicio**|**Descripción**
+---------|------------
+[PATH 1](/Trimestre_2/Ejercicio_XPATH/XPATH-1)|.
+
 ## Proyecto kahoot
 
 [Proyecto kahoot](https://quizi.w3spaces.com/index.html)|Proyecto del tercer trimestre donde hacemos una página web con xml ajax y javascript.
