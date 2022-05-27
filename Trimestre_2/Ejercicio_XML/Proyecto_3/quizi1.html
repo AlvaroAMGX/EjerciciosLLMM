@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>quizi1</title>
+    <link rel="stylesheet" href="./quizi.css">
+    <script src="./quizi.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header id="header"></header>
+    <br><br><br><br><br>
+    <div id="puntos">0</div>
+    <div id="puntuacionmaxima">/20</div>
+    <div id="cuentaatras"></div>
+    <div id="contenedor">
+
+        <h1 id="pregunta">Para empezar dale a un boton</h1>
+        <button id="boton1" onclick="siguiente_pregunta1(),puntuacion11()">Respuesta 1</button>
+        <button id="boton2" onclick="siguiente_pregunta1(),puntuacion21()">Respuesta 2</button><br>
+        <button id="boton3" onclick="siguiente_pregunta1(),puntuacion31()">Respuesta 3</button>
+        <button id="boton4" onclick="siguiente_pregunta1(),puntuacion41()"> Respuesta 4</button>
+    </div>
+    <a href="./index.html"><button  style="width: 150px;height:25px;left:50px;bottom:50px;">Volver atras</button></a>
+    <button onclick="reinicio()" style="width: 150px;height:25px;right:50px;bottom:50px;">Reiniciar</button>
+    <footer id="footer"></footer>
+</body>
+
+</html>

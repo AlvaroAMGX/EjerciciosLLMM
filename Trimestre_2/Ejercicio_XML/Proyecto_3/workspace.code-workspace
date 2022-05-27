@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Ejercicio_Css\\Css-2-1"
+		},
+		{
+			"path": "..\\..\\Ejercicio_Css\\Css-2-2"
+		},
+		{
+			"path": "..\\..\\Ejercicio_Css\\Css-2-3"
+		},
+		{
+			"path": "..\\..\\Ejercicio_Css\\Css-2-5"
+		},
+		{
+			"path": "..\\..\\Ejercicio_Css\\css-2-8"
+		},
+		{
+			"path": "..\\..\\Ejercicio_Css\\Css-2-9"
+		},
+		{
+			"path": "..\\..\\Ejercicio_Css\\Css-2-10"
+		},
+		{
+			"path": "..\\..\\Ejercicio_Css\\Css-2-11"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Css-2-3"
+	}
+}
