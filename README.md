@@ -121,7 +121,7 @@ Aquí están mis ejercicios de lenguaje de marcas.
 
 **Ejercicio**|**Descripción**
 ---------|------------
-[PATH 1](/Trimestre_2/Ejercicio_XPATH/XPATH-1.xml)|.
+[PATH 1](/Trimestre_2/Ejercicio_XPATH/XPATH-1.xml)|Eje4cicio con XPATH sobre un xml.
 
 ## Proyecto kahoot
 
