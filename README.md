@@ -99,6 +99,16 @@ Aquí están mis ejercicios de lenguaje de marcas.
 ---------|------------
 [Validación](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fbootstrapexample.w3spaces.com%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=es#css)|Aqui dejo el documento de validación aunque al parecer me ha dado varios problemas porque no reconoce algunas cosas del css y las coje como errores cuando estas vienen casi iguales de w3schools por lo demás esta validado y no me ha dado más problemas.
 
+# Trimestre 3
+
+###  XML
+
+**Ejercicio**|**Descripción**
+---------|------------
+[XML 1](/Trimestre_2/Ejercicio_XML/xml-1)|Con la consola conseguiremos los que nos piden de una libreria.
+[XML 2](/Trimestre_2/Ejercicio_XML/XML-2)|Con la consola conseguiremos los que nos piden de una tienda de CDs.
+[XML 3](/Trimestre_2/Ejercicio_XML/XML-3)|Con la consola conseguiremos los que nos piden de una libreria.
+
 ## Proyecto kahoot
 
 [Proyecto kahoot](https://quizi.w3spaces.com/index.html)|Proyecto del tercer trimestre donde hacemos una página web con xml ajax y javascript.
