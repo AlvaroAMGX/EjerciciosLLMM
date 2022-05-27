@@ -80,7 +80,7 @@ Aquí están mis ejercicios de lenguaje de marcas.
 [JS 4](/Trimestre_2/Ejercicio_Javascript/Javascript-2-4)|Mostrar la variable que escojas en pantalla.
 [JS 5](/Trimestre_2/Ejercicio_Javascript/Javascript-2-5)|Mostrar la variable que escojas en pantalla.
 [JS 6](/Trimestre_2/Ejercicio_Javascript/Javascript-2-6)|Mostrar la variable que escojas en pantalla.
-[JS 7](/Trimestre_2/Ejercicio_Javascript/Javascript-2-7)|Mostrar la variable que escojas en pantalla.
+[JS 7](/Trimestre_2/Ejercicio_Javascript/Javascrip-2-7)|Mostrar la variable que escojas en pantalla.
 [JS 8](/Trimestre_2/Ejercicio_Javascript/Javascript-2-8)|Mostrar la variable que escojas en pantalla.
 [Juego](/Trimestre_2/Ejercicio_Javascript/Juego)|Juego que hice para practicar
 
