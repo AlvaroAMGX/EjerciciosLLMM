@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ajax 3</title>
+</head>
+<body>
+    <h2>Lpmgitud del array</h2>
+<p id="demo"></p>
+<script>
+const cars = [ "Ford", "BMW", "Audi", "Fiat" ];
+document.getElementById("demo").innerHTML = cars.length;
+</script>
+
+
+<h2>Fetch a JSON file with XMLHttpRequest</h2>
+<p id="demo"></p>
+<table id="patata"></table>
+<script>
+const patata = [ "Ford", "BMW", "Audi", "Fiat" ];
+document.getElementById("demo").innerHTML = cars.length;
+
+let table = "<th>Brand</th>";
+for (let i = 0; i < cars.length; i++) {
+  table += "<tr><td>" + cars[i] + "</td></tr>";
+}
+Document.getElementById("patata").innetHTML = table;
+</script>
+</body>
+</html>
