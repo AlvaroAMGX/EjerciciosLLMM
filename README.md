@@ -115,7 +115,7 @@ Aquí están mis ejercicios de lenguaje de marcas.
 ---------|------------
 [AJAX 1](/Trimestre_2/Ejercicio_AJAX/AJAX-1)|Con la consola conseguiremos los que nos piden de una libreria.
 [AJAX 2](/Trimestre_2/Ejercicio_AJAX/AJAX-2)|Con la consola conseguiremos los que nos piden de una tienda de CDs.
-[AJAX 3](/Trimestre_2/Ejercicio_AJAX/AJAX-3)|Con la consola conseguiremos los que nos piden de una libreria.
+[AJAX 3](/Trimestre_2/Ejercicio_AJAX/AJAX-3)|Con la consola conseguiremos los que nos piden de una libreria con bucles.
 
 ## Proyecto kahoot
 
