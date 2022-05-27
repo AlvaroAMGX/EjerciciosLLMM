@@ -109,6 +109,14 @@ Aquí están mis ejercicios de lenguaje de marcas.
 [XML 2](/Trimestre_2/Ejercicio_XML/XML-2)|Con la consola conseguiremos los que nos piden de una tienda de CDs.
 [XML 3](/Trimestre_2/Ejercicio_XML/XML-3)|Con la consola conseguiremos los que nos piden de una libreria.
 
+###  AJAX
+
+**Ejercicio**|**Descripción**
+---------|------------
+[AJAX 1](/Trimestre_2/Ejercicio_AJAX/AJAX-1)|Con la consola conseguiremos los que nos piden de una libreria.
+[AJAX 2](/Trimestre_2/Ejercicio_AJAX/AJAX-2)|Con la consola conseguiremos los que nos piden de una tienda de CDs.
+[AJAX 3](/Trimestre_2/Ejercicio_AJAX/AJAX-3)|Con la consola conseguiremos los que nos piden de una libreria.
+
 ## Proyecto kahoot
 
 [Proyecto kahoot](https://quizi.w3spaces.com/index.html)|Proyecto del tercer trimestre donde hacemos una página web con xml ajax y javascript.
