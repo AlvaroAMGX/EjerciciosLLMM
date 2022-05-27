@@ -105,7 +105,7 @@ Aquí están mis ejercicios de lenguaje de marcas.
 
 **Ejercicio**|**Descripción**
 ---------|------------
-[XML 1](/Trimestre_2/Ejercicio_XML/xml-1)|Con la consola conseguiremos los que nos piden de una libreria.
+[XML 1](/Trimestre_2/Ejercicio_XML/XML-1)|Con la consola conseguiremos los que nos piden de una libreria.
 [XML 2](/Trimestre_2/Ejercicio_XML/XML-2)|Con la consola conseguiremos los que nos piden de una tienda de CDs.
 [XML 3](/Trimestre_2/Ejercicio_XML/XML-3)|Con la consola conseguiremos los que nos piden de una libreria.
 
