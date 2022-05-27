@@ -78,20 +78,20 @@ Aquí están mis ejercicios de lenguaje de marcas.
 [JS 2](/Trimestre_2/Ejercicio_Javascript/Javascript-2-2)|Mostrar un mensaje al darle al botón.
 [JS 3](/Trimestre_2/Ejercicio_Javascript/Javascript-2-3)|Modificar el ejemplo para que al poner el número se cambie la fot por otro coche.
 [JS 4](/Trimestre_2/Ejercicio_Javascript/Javascript-2-4)|Mostrar la variable que escojas en pantalla.
-[JS 5](/Trimestre_2/Ejercicio_Javascript/Javascript-2-5)|Mostrar la variable que escojas en pantalla.
-[JS 6](/Trimestre_2/Ejercicio_Javascript/Javascript-2-6)|Mostrar la variable que escojas en pantalla.
-[JS 7](/Trimestre_2/Ejercicio_Javascript/Javascrip-2-7)|Mostrar la variable que escojas en pantalla.
-[JS 8](/Trimestre_2/Ejercicio_Javascript/Javascript-2-8)|Mostrar la variable que escojas en pantalla.
+[JS 5](/Trimestre_2/Ejercicio_Javascript/Javascript-2-5)|Un html con botones para hacer cosas con un parrafo.
+[JS 6](/Trimestre_2/Ejercicio_Javascript/Javascript-2-6)|Hacer una pagina para que salgan frases aleatorias.
+[JS 7](/Trimestre_2/Ejercicio_Javascript/Javascrip-2-7)|Hacer un carrusel de imagenes.
+[JS 8](/Trimestre_2/Ejercicio_Javascript/Javascript-2-8)|Hacer una calculadora con varias cosas.
 [Juego](/Trimestre_2/Ejercicio_Javascript/Juego)|Juego que hice para practicar
 
 ###  DOM
 
 **Ejercicio**|**Descripción**
 ---------|------------
-[DOM 1](/Trimestre_2/Ejercicio_Javascript/Javascript-DOM-1)|Añadir un botón y poner el sript en otro archivo.
-[DOM 2](/Trimestre_2/Ejercicio_Javascript/Javascript-DOM-2)|Mostrar un mensaje al darle al botón.
-[DOM 3](/Trimestre_2/Ejercicio_Javascript/Javascript-DOM-3)|Modificar el ejemplo para que al poner el número se cambie la fot por otro coche.
-[DOM 4](/Trimestre_2/Ejercicio_Javascript/Javascript-DOM-4)|Mostrar la variable que escojas en pantalla.
+[DOM 1](/Trimestre_2/Ejercicio_Javascript/Javascript-DOM-1)|Crea una página web que contenga varios párrafos. Mediante Javascript accede al DOM y muestra el contenido de dichos párrafos en un div.
+[DOM 2](/Trimestre_2/Ejercicio_Javascript/Javascript-DOM-2)|Crea una página y mediante Javascript agrega imagen a un div.
+[DOM 3](/Trimestre_2/Ejercicio_Javascript/Javascript-DOM-3)|Crea una página con una lista y borra los elementos de dicha lista.
+[DOM 4](/Trimestre_2/Ejercicio_Javascript/Javascript-DOM-4)|Usando la consola del navegador muestra: título, imágenes y los enlaces de una página
 
 ## Proyecto bootstrap
 
